@@ -1,3 +1,3 @@
 # CSE 445 Project
-## Introduction Machine Learning
+## Introduction to Machine Learning
 ### Summer 2017, NSU
