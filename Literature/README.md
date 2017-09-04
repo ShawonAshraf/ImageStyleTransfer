@@ -9,3 +9,4 @@
 7.	http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
 8.	https://github.com/google/deepdream
 9.	https://prisma-ai.com/
+10. https://arxiv.org/abs/1603.08155
