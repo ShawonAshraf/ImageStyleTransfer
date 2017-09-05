@@ -1,8 +1,6 @@
-# CSE 445 Project
-### Introduction to Machine Learning
-#### Summer 2017, NSU
-
-### Style Transfer using CNN and VGG16 Architecture
+# Style Transfer using CNN and VGG16 Architecture
+#### Course project for CSE445 Introduction to Machine Learning
+#### Summer 2017, North South University
 
 #### Dependencies
 
