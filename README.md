@@ -31,3 +31,7 @@ a target image
 
 ![Imgur](https://i.imgur.com/zKHrNB3.jpg)
 ![Imgur](https://i.imgur.com/HLLU3is.jpg)
+
+
+#### References
+References used in this project can be found [here](https://github.com/ShawonAshraf/ImageStyleTransfer/tree/master/Literature)
